@@ -1,0 +1,15 @@
+Fibonacci:
+
+Você receberá um inteiro "N". Responda com o número de Fibonacci posição N
+
+Exemplos:
+    Entrada:              Saída esperada:
+    4                     3
+
+    Entrada:              Saída esperada:
+    7                     13
+
+
+Restrições:
+0 <= N <= 1000;
+Tempo por caso: 2 segundos.
